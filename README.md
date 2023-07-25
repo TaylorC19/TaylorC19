@@ -21,6 +21,10 @@ At the moment, I am in the process of learning how to utilize Django Templates f
 1. [GamerTalk](https://github.com/GamerTalk). This is a project being worked on by a small team to create a language exchange app for gamers to meet each other.
 2. [Meal Prep Life](https://github.com/TaylorC19/meal-prep-tracker). This is an independent project. It is a recipe-sharing application that uses a nutrition API, [Nutritionix](https://www.nutritionix.com/), to provide the health information of the recipe.
 
+## Other
+I have been interested in technology since I was a kid. From elementary school where I would tear apart controllers and such to see how they worked to building my first computer in high school. I have always enjoyed learning these new tools to interact with everything around me.
+Outside of tech, you can sometimes find me hiking to get out of the city or playing some video games.
+
 <!--
 **TaylorC19/TaylorC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

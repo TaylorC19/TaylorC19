@@ -15,9 +15,10 @@ Node, Express, Django, Django REST framework
 Git, Postgres, Google Firebase, Render
 
 ## 🌱 I’m currently learning ...
-At the moment, I am in the process of learning how to utilize Django Templates for frontend development. Additionally, I have a keen interest in implementing Docker.
+At the moment, I am in the process of learning how to utilize Docker containers to create a common dev environment. Additionally, I have a keen interest in implementing Docker.
 
 ## 🔭 I’m currently working on ...
+More information can be found on [my portfolio page](https://my-portfolio-taylorc19s-projects.vercel.app/).
 1. [GamerTalk](https://github.com/GamerTalk). This is a project being worked on by a small team to create a language exchange app for gamers to meet each other.
 2. [Meal Prep Life](https://github.com/TaylorC19/meal-prep-tracker). This is an independent project. It is a recipe-sharing application that uses a nutrition API, [Nutritionix](https://www.nutritionix.com/), to provide the health information of the recipe.
 

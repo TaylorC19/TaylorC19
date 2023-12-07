@@ -15,7 +15,7 @@ Node, Express, Django, Django REST framework
 Git, Postgres, Google Firebase, Render
 
 ## 🌱 I’m currently learning ...
-At the moment, I am in the process of learning how to utilize Docker containers to create a common dev environment. Additionally, I have a keen interest in implementing Docker.
+At the moment, I am in the process of learning how to utilize Docker containers to create a common dev environment. Additionally, I have a keen interest in Django.
 
 ## 🔭 I’m currently working on ...
 More information can be found on [my portfolio page](https://my-portfolio-taylorc19s-projects.vercel.app/).

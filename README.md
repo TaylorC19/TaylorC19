@@ -15,7 +15,7 @@ Node, Express, Django, Django REST framework
 Git, Postgres, Google Firebase, Render
 
 ## 🌱 I’m currently learning ...
-At the moment, I am in the process of studying for the AWS Solutions Architect Associate Certification. I am also learning how to utilize Docker containers to create a common dev environment, and I have a keen interest in Django.
+At the moment, I am in the process of studying for the AWS Solutions Architect - Associate Certification. I am also learning how to utilize Docker containers to create a common dev environment for team projects, and I have a keen interest in Django for database and backend work.
 
 ## 🔭 I’m currently working on ...
 More information can be found on [my portfolio page](https://my-portfolio-taylorc19s-projects.vercel.app/).

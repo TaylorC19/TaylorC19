@@ -6,13 +6,13 @@
 TypeScript, JavaScript, Python, SQL, HTML/CSS
 
 ### Frontend
-React, NextJS
+React, NextJS, TailwindCSS
 
 ### Backend
 Node, Express, Django, Django REST framework
 
 ### Other
-Git, Postgres, Google Firebase, Render
+Git, Postgres, Google Firebase, Docker, Render
 
 ## 🌱 I’m currently learning ...
 At the moment, I am in the process of studying for the AWS Solutions Architect - Associate Certification. I am also learning how to utilize Docker containers to create a common dev environment for team projects, and I have a keen interest in Django for database and backend work.

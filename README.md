@@ -3,13 +3,13 @@
 ## Tech Stack
 
 ### Languages
-TypeScript, JavaScript, Python, SQL, HTML/CSS
+TypeScript, JavaScript, Python, PHP, SQL, HTML/CSS
 
 ### Frontend
-React, NextJS, TailwindCSS
+React, NextJS, TailwindCSS, WordPress
 
 ### Backend
-Node, Express, Django, Django REST framework
+Node, Express, Django, Django REST framework, WordPress
 
 ### Other
 Git, Postgres, Google Firebase, Docker, Render
@@ -24,7 +24,7 @@ More information can be found on [my portfolio page](https://my-portfolio-taylor
 
 ## Other
 I have been interested in technology since I was a kid. From elementary school where I would tear apart controllers and such to see how they worked to building my first computer in high school. I have always enjoyed learning these new tools to interact with everything around me.
-Outside of tech, you can sometimes find me hiking to get out of the city or playing some video games.
+Outside of tech, you can sometimes find me hiking to get out of the city or playing video games.
 
 <!--
 **TaylorC19/TaylorC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

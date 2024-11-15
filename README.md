@@ -20,7 +20,7 @@ At the moment, I am in the process of studying for the AWS Solutions Architect -
 ## 🔭 I’m currently working on ...
 More information can be found on [my portfolio page](https://my-portfolio-taylorc19s-projects.vercel.app/).
 1. [GamerTalk](https://github.com/GamerTalk). This is a project being worked on by a small team to create a language exchange app for gamers to meet each other.
-2. [Meal Prep Life](https://github.com/TaylorC19/meal-prep-tracker). This is an independent project. It is a recipe-sharing application that uses a nutrition API, [Nutritionix](https://www.nutritionix.com/), to provide the health information of the recipe.
+2. [RecipeNutriShare](https://github.com/TaylorC19/RecipeNutriShare-Frontend). This is an independent project. It is a recipe-sharing application that uses a nutrition API, [Nutritionix](https://www.nutritionix.com/), to provide the health information of the recipe.
 
 ## Other
 I have been interested in technology since I was a kid. From elementary school where I would tear apart controllers and such to see how they worked to building my first computer in high school. I have always enjoyed learning these new tools to interact with everything around me.

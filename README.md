@@ -1,30 +1,60 @@
-# Hi there 👋
+# Hi, I'm Taylor 👋
+
+I'm a full-stack Web developer based in Tokyo, Japan. I build and maintain internal and client-facing Web applications across multiple stacks, including WordPress/PHP, Vue.js, Go, Java, MySQL, MongoDB, and AWS.
+
+My experience includes full-stack application development, client communication, team coordination, localization, release support, and working in both English and Japanese environments.
 
 ## Tech Stack
 
 ### Languages
-TypeScript, JavaScript, Python, PHP, SQL, HTML/CSS
+
+TypeScript, JavaScript, Go, Java, PHP, Python, SQL, HTML/CSS
 
 ### Frontend
-React, NextJS, TailwindCSS, WordPress
+
+Vue.js, React, Next.js, Tailwind CSS, SCSS, WordPress
 
 ### Backend
-Node, Express, Django, Django REST framework, WordPress
 
-### Other
-Git, Postgres, Google Firebase, Docker, Render
+Go/Gin, Java/Spring MVC, Node.js/Express, Django, Django REST Framework, WordPress/PHP, REST APIs
 
-## 🌱 I’m currently learning ...
-At the moment, I am in the process of studying for the AWS Solutions Architect - Associate Certification. I am also learning how to utilize Docker containers to create a common dev environment for team projects, and I have a keen interest in Django for database and backend work.
+### Databases
 
-## 🔭 I’m currently working on ...
+PostgreSQL, MySQL, MongoDB
+
+### Tools / Cloud
+
+Git, GitHub, Docker, AWS, Nginx/OpenResty, Cypress, Vite, Webpack
+
+## Current Focus
+
+I'm currently focused on full-stack application development, including:
+
+* Building and maintaining production Web applications
+* Working across multiple frontend and backend stacks
+* Improving development, testing, and release workflows
+* Expanding my experience with cloud infrastructure, containers, and application architecture
+
+## Featured Project
+
+### Media Library Manager
+
+Media Library Manager is a self-hosted full-stack Web application for managing personal media collections, including movies, TV shows, music, books, and games.
+
+The application includes secure authentication, external metadata integration, barcode-assisted lookup for physical media, and a modular backend architecture designed for self-hosted use.
+
+**Stack:** Go, Gin, MongoDB, S3-compatible storage, TypeScript, SCSS, Vite, JWT, REST APIs
+
+## Portfolio
+
 More information can be found on [my portfolio page](https://my-portfolio-taylorc19s-projects.vercel.app/).
-1. [GamerTalk](https://github.com/GamerTalk). This is a project being worked on by a small team to create a language exchange app for gamers to meet each other.
-2. [RecipeNutriShare](https://github.com/TaylorC19/RecipeNutriShare-Frontend). This is an independent project. It is a recipe-sharing application that uses a nutrition API, [Nutritionix](https://www.nutritionix.com/), to provide the health information of the recipe.
 
-## Other
-I have been interested in technology since I was a kid. From elementary school where I would tear apart controllers and such to see how they worked to building my first computer in high school. I have always enjoyed learning these new tools to interact with everything around me.
-Outside of tech, you can sometimes find me hiking to get out of the city or playing video games.
+## About Me
+
+I've been interested in technology since I was young, from taking apart controllers to understand how they worked to building my first computer in high school. I enjoy learning new tools, improving systems, and building practical applications.
+
+Outside of tech, I enjoy hiking, getting out of the city, and playing video games.
+
 
 <!--
 **TaylorC19/TaylorC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
